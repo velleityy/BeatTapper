@@ -2,7 +2,7 @@
 
 ## Elevator Pitch (≤100 words)
 
-**BeatTapper** is a rhythm game where your actions *become* the music. Tap, hold, and swipe to visual cues that sync with each track’s beat. Landing notes on time builds your combo and flow; misses distort the visuals and audio, pushing you to recover. The fun comes from that perfect moment when you’re completely in rhythm — it feels like performing the song rather than just playing it. Chase high scores, unlock new tracks and themes, and master tougher patterns built around timing, precision, and self-expression.  
+**BeatTapper** is a rhythm game where your actions *become* the music. Tap, hold, and swipe to visual cues that sync with each track’s beat. Landing notes on time builds your combo and flow, misses distort the visuals and audio, pushing you to recover. The fun comes from that perfect moment when you’re completely in rhythm, it feels like performing the song rather than just playing it. Chase high scores, unlock new tracks and themes, and master tougher patterns built around timing, precision, and self-expression.  
 
 _Word count: 97_
 
@@ -32,7 +32,7 @@ BeatTapper is a fast-paced, music-driven rhythm game built around timing, feedba
 
 ---
 
-## 🧩 Conceptual Mock-ups
+## Conceptual Mock-ups
 
 ### **Splash Screen**
 ![Splash Screen](mockups/mockup_01_title.png)
@@ -55,3 +55,4 @@ BeatTapper is a fast-paced, music-driven rhythm game built around timing, feedba
 ---
 
 © 2025 BeatTapper — Elaine Hsu
+

@@ -1,0 +1,15 @@
+BeatTapper — Game Mechanics Guide
+
+Goal
+Hit notes in time with the music to build combo, increase score, and maintain accuracy.
+
+Controls
+D F J K for four lanes.
+Tap when the note crosses the hit line.
+Hold notes: press at start, keep held, release at end (if implemented).
+
+Judgement Windows
+Perfect > Great > Good > Miss.
+
+HUD
+Score (top right), Combo (top right), Judge text near the hit line.

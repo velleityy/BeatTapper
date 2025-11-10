@@ -1,0 +1,22 @@
+{
+  "songId": "night_drive",
+  "bpm": 120,
+  "notes": [
+    { "lane": 0, "timeMs": 1000 },
+    { "lane": 1, "timeMs": 1250 },
+    { "lane": 2, "timeMs": 1500 },
+    { "lane": 3, "timeMs": 1750 },
+    { "lane": 0, "timeMs": 2000 },
+    { "lane": 1, "timeMs": 2250 },
+    { "lane": 2, "timeMs": 2500 },
+    { "lane": 3, "timeMs": 2750 },
+    { "lane": 0, "timeMs": 3000 },
+    { "lane": 1, "timeMs": 3250 },
+    { "lane": 2, "timeMs": 3500 },
+    { "lane": 3, "timeMs": 3750 },
+    { "lane": 0, "timeMs": 4000 },
+    { "lane": 1, "timeMs": 4250 },
+    { "lane": 2, "timeMs": 4500 },
+    { "lane": 3, "timeMs": 4750 }
+  ]
+}
